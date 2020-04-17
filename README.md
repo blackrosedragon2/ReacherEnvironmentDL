@@ -1,7 +1,6 @@
 # ReacherEnvironmentDL
 Using DDPG , training 20 agents to play in the Reacher Unity Environment
 
-# DRLND Continuous Control Project
 ---
 This is the second project in the Udacity Deep Reinforcement Learning Nanodegree. 
 
