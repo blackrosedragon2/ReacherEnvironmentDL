@@ -16,7 +16,7 @@ Each episode continues until the environment says any one of the 20 agents are d
 
 As above, a reward of +0.1 is provided for each step that the agent's hand is in the goal location.
 
-The DDPG agent is contained as a class in [`DDPG_Continuous_Control.ipynb`](https://github.com/blackrosedragon2/ReacherEnvironmentDL/master/DDPG_Continuous_Control.ipynb)
+The DDPG agent is contained as a class in [`DDPG_Continuous_Control.ipynb`](https://github.com/blackrosedragon2/ReacherEnvironmentDL/blob/master/DDPG_Continuous_Control.ipynb)
 
 For each time step and agent the Agent acts upon the state utilising a shared (at class level) `Memory`, `actorlocal`, `actortarget`, `optimizeractor`, `criticlocal`, `critictarget` and `optimizercritic` networks.
  
