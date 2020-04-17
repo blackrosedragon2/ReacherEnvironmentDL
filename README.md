@@ -2,7 +2,6 @@
 Using DDPG , training 20 agents to play in the Reacher Unity Environment
 
 ---
-This is the second project in the Udacity Deep Reinforcement Learning Nanodegree. 
 
 This project works with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
