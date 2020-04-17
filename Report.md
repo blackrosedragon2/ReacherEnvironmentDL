@@ -51,7 +51,7 @@ Where
 
 ### Neural Networks
 
-Actor and Critic network models were defined in [`DDPG_Continuous_Control.py`](https://github.com/blackrosedragon2/ReacherEnvironmentDL/master/DDPG_Continuous_Control.ipynb).
+Actor and Critic network models were also defined in [`DDPG_Continuous_Control.py`](https://github.com/blackrosedragon2/ReacherEnvironmentDL/blob/master/DDPG_Continuous_Control.ipynb).
 
 The Actor networks utilised two fully connected layers with both of them having 128 units with relu activation and tanh activation for the action space. The network has an initial dimension the same as the state size.
 
